@@ -8,6 +8,6 @@ https://www.kubsu.ru/sites/all/themes/portal_kubsu/logo.png
 
 SVG-иконки Lucide встроены в HTML и не требуют сети.
 https://github.com/lucide-icons/lucide
-См. ICON_LICENSE.txt.
+Уведомления об авторстве и условиях использования иконок сохранены в комментарии css/master_style.css.
 
 Горные изображения и фото корпуса не используются. Портрет автора не предоставлен и не подменяется пейзажем или сгенерированным лицом.

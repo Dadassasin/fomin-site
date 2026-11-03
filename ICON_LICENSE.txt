@@ -1,7 +1,0 @@
-Lucide Icons - https://lucide.dev/
-Source: https://github.com/lucide-icons/lucide/tree/main/icons
-License: ISC (and certain Feather-derived icons under MIT).
-See https://github.com/lucide-icons/lucide/blob/main/LICENSE
-Original SVG icon path data is embedded inline in the HTML for offline icon rendering.
-
-© Lucide Icons and Contributors, 2026 (ISC); portions © Cole Bemis (MIT).
