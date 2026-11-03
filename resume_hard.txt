@@ -1,0 +1,9 @@
+Python
+Git
+GitHub
+Работа с API
+HTML и CSS
+C++ (базовый)
+Java (базовый)
+C# (базовый)
+JavaScript (базовый)

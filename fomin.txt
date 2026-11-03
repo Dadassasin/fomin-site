@@ -1,0 +1,23 @@
+ru
+Фомин Тимофей Владимирович
+Разработка и оценка эффективности LLM-агента для прокси-модерации командных ретроспектив в IT-образовании
+01.04.02 Прикладная математика и информатика
+Факультет компьютерных технологий и прикладной математики
+Кафедра информационных технологий
+Научный руководитель: Добровольская Наталья Юрьевна
+Бакалавриат: КубГУ, 02.03.03 Математическое обеспечение и администрирование информационных систем, 2021-2025
+Факультет бакалавриата: компьютерных технологий и прикладной математики (ФКТиПМ)
+Годы магистратуры: 2026-2027
+Статус утверждения темы: утверждена
+
+en
+Timofey Vladimirovich Fomin
+Development and Evaluation of an LLM Agent for Proxy Moderation of Team Retrospectives in IT Education
+01.04.02 Applied Mathematics and Informatics
+Faculty of Computer Technologies and Applied Mathematics
+Department of Information Technologies
+Research supervisor: Natalya Yuryevna Dobrovolskaya
+Bachelor’s degree: Kuban State University, 02.03.03 Mathematical Support and Administration of Information Systems, 2021-2025
+Bachelor’s faculty: Computer Technologies and Applied Mathematics
+Master’s study dates: 2026-2027
+Topic approval status: approved
